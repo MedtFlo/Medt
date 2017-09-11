@@ -1,1 +1,3 @@
 # Medt
+
+Das ist bloß für die Schule, nix besonderes...
